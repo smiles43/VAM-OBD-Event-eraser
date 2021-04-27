@@ -1,0 +1,13 @@
+$PRFWR*41 - Requests firmwares upgrade
+Wait upto 10 seconds if nothing then FAIL, or 
+Should then see
+$PRFWR,0*5D - This response means it has wiped the memory proceed to next
+$PRFWR,1*    -indicates fault
+
+
+
+SiLabs
+Chk to see if anything that erases the flash on VAM OBD
+near JTAG section
+
+KENOBI
